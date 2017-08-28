@@ -13,4 +13,3 @@ Images:
 http://prntscr.com/gdx0nj
 
 Project Version: 0.1
-Author: Tsavdaras Zacharias
