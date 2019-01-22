@@ -7,7 +7,7 @@ Link: https://freealts.us/
 Unfortunatly I cannot provide source code but this project is made with Nodejs and javascript for backend
 and HTML, CSS for frontend.
 
-Status: Online
+Status: Offline
 
 Images: 
 http://prntscr.com/gdx0nj
